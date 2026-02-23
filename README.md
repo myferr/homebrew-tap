@@ -16,5 +16,6 @@ A third-party (in relation to Homebrew) repository providing installable package
 See more at https://docs.brew.sh/Taps
 
 ## Packages
+* [bake](https://github.com/myferr/bake)
 * [deo](https://github.com/myferr/deo)
 * [ocelot](https://github.com/myferr/ocelot)
